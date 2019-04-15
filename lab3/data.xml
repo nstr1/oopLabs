@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_212" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.nestor.SeSHeI.lab3.Applicant">
+    <void property="dateOfDismissal">
+     <string>123</string>
+    </void>
+    <void property="education">
+     <string>123</string>
+    </void>
+    <void property="experience">
+     <string>234</string>
+    </void>
+    <void property="minimumWage">
+     <string>123</string>
+    </void>
+    <void property="registrationNumber">
+     <string>123</string>
+    </void>
+    <void property="speciality">
+     <string>123</string>
+    </void>
+    <void property="workingConditions">
+     <string>123</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.nestor.SeSHeI.lab3.Applicant">
+    <void property="dateOfDismissal">
+     <string>543</string>
+    </void>
+    <void property="education">
+     <string>534</string>
+    </void>
+    <void property="experience">
+     <string>543</string>
+    </void>
+    <void property="minimumWage">
+     <string>543</string>
+    </void>
+    <void property="registrationNumber">
+     <string>1453</string>
+    </void>
+    <void property="speciality">
+     <string>534</string>
+    </void>
+    <void property="workingConditions">
+     <string>543</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
