@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.3" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="skrr.Applicant" id="Applicant0">
+    <void class="skrr.Applicant" method="getField">
+     <string>registrationNumber</string>
+     <void method="set">
+      <object idref="Applicant0"/>
+      <string>098</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>education</string>
+     <void method="set">
+      <object idref="Applicant0"/>
+      <string>High</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>speciality</string>
+     <void method="set">
+      <object idref="Applicant0"/>
+      <string>Janitor</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>experience</string>
+     <void method="set">
+      <object idref="Applicant0"/>
+      <string>12 months</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>dateOfDismissal</string>
+     <void method="set">
+      <object idref="Applicant0"/>
+      <string>09.11.2011</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>specialityWanted</string>
+     <void method="set">
+      <object idref="Applicant0"/>
+      <string>Janitor</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>workingConditions</string>
+     <void method="set">
+      <object idref="Applicant0"/>
+      <string>-</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>minimumSalary</string>
+     <void method="set">
+      <object idref="Applicant0"/>
+      <string>200</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="skrr.Applicant" id="Applicant1">
+    <void class="skrr.Applicant" method="getField">
+     <string>registrationNumber</string>
+     <void method="set">
+      <object idref="Applicant1"/>
+      <string>123</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>education</string>
+     <void method="set">
+      <object idref="Applicant1"/>
+      <string>j</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>speciality</string>
+     <void method="set">
+      <object idref="Applicant1"/>
+      <string>j</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>experience</string>
+     <void method="set">
+      <object idref="Applicant1"/>
+      <string>j</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>dateOfDismissal</string>
+     <void method="set">
+      <object idref="Applicant1"/>
+      <string>j</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>specialityWanted</string>
+     <void method="set">
+      <object idref="Applicant1"/>
+      <string>j</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>workingConditions</string>
+     <void method="set">
+      <object idref="Applicant1"/>
+      <string>j</string>
+     </void>
+    </void>
+    <void class="skrr.Applicant" method="getField">
+     <string>minimumSalary</string>
+     <void method="set">
+      <object idref="Applicant1"/>
+      <string>j</string>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
